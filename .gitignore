@@ -1,0 +1,25 @@
+# Operating system / editor local state
+.DS_Store
+._*
+.idea/
+*.swp
+*.swo
+
+# Private game extracts, saves and captured diagnostics
+/local/
+/artifacts/
+*.save
+*.save.backup
+*.replay
+*.log
+
+# Generated packages and build output
+*.pack
+/build/
+/dist/
+/tmp/
+
+# Local configuration / credentials
+.env
+.env.*
+!.env.example
