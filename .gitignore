@@ -23,3 +23,8 @@
 .env
 .env.*
 !.env.example
+
+# Python repository checks
+__pycache__/
+*.py[cod]
+.venv/

@@ -1,0 +1,8 @@
+---
+description: Strategic Mind project rules and mandatory handoff updates
+alwaysApply: true
+---
+
+Read [RULES.md](../../RULES.md) and [HANDOFF.md](../../HANDOFF.md) before changing this repository. RULES.md is the canonical project policy.
+
+Every repository-changing commit must contain a substantive HANDOFF.md update with changes, verification, limitations and next steps. Run the checks in [development workflow](../../docs/development-workflow.md). Do not claim game execution without game evidence.
